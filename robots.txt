@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gaeudk.github.io/pnY/sitemap.pnY.gz
